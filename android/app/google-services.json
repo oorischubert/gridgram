@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554097756035",
+    "project_id": "gramgrid-4d683",
+    "storage_bucket": "gramgrid-4d683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554097756035:android:5f74143ed70cd14bf6d8b6",
+        "android_client_info": {
+          "package_name": "com.example.gridgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAfPrGM05BTG0cJwep2xMeCS9QHDLr6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
